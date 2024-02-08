@@ -16,7 +16,7 @@ This is a Coursera (IBM) Course project, which is an ETL (Extract, Transform, Lo
 ## File Structure
 - **etl_project_gdp.py**: Main script for the ETL process.
 - **Countries_by_GDP.csv**: Final processed data saved as a CSV file.
-- - **World_Economies.db**: SQLite database file for structured data storage.
+- **World_Economies.db**: SQLite database file for structured data storage.
 - **etl_project_log.txt**: Log file for recording the execution progress.
 
 
